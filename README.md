@@ -34,6 +34,8 @@ Hola, soy Norma - webapp done - server tomcat ok
 
 <img width="1558" height="824" alt="image" src="https://github.com/user-attachments/assets/a8840adb-803f-4de1-91ad-127550d1d810" />
 
-
+## 🚧 Next steps
+- Add backend logic (Servlet / Spring Boot)
+- Containerize with Docker
 
 
