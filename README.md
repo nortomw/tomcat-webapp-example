@@ -31,3 +31,9 @@ http://localhost:8080/tomcat-app1
 
 Output:
 Hola, soy Norma - webapp done - server tomcat ok
+
+<img width="1558" height="824" alt="image" src="https://github.com/user-attachments/assets/a8840adb-803f-4de1-91ad-127550d1d810" />
+
+
+
+
