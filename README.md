@@ -16,9 +16,12 @@ Basic web application deployed on Apache Tomcat running on Linux.
 - Published the project on GitHub
 
 ## 📂 Project Structure
+
+```
 tomcat-webapp-example/
 └── tomcat-app1/
-└── index.jsp
+    └── index.jsp
+```
 
 
 ## 🧪 Result
